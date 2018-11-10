@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutBuy"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/btn200Stars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn500Stars"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="200 STARS" />
+    
+      <TextView
+        android:id="@+id/txtStarsBuy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:drawableRight="@drawable/star_64"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="star"
+        android:textSize="43sp" />
+    
+
+    <Button
+        android:id="@+id/btn100Stars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn200Stars"
+        android:layout_alignLeft="@+id/btn200Stars"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="100 STARS" />
+
+    <Button
+        android:id="@+id/btn500Stars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnExitBuy"
+        android:layout_alignLeft="@+id/btn200Stars"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="500 STARS" />
+
+    <Button
+        android:id="@+id/btnExitBuy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btn500Stars"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="BACK" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_above="@+id/btn100Stars"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/star" />
+
+</RelativeLayout>

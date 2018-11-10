@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutPlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:configChanges="orientation|screenSize" >
+
+    <Button
+        android:id="@+id/my_button"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/rabbit_100"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnArici"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/arici_100"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnBee"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/bee_100"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnSnake"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/snake_100"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btnTarantula"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/tarantula_100"
+        android:text="" />
+    
+       <Button
+        android:id="@+id/btnLobster"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:drawableLeft="@drawable/lobster_100"
+        android:text="" />
+
+    <TextView
+        android:id="@+id/txtCeas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="TextView"
+        android:textSize="35sp" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="ca-app-pub-1675138020340294/5645658764" >
+    </com.google.android.gms.ads.AdView>
+
+    <TextView
+        android:id="@+id/txtScor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/adView"
+        android:layout_centerHorizontal="true"
+        android:text="0"
+        android:textSize="35sp" />
+
+</RelativeLayout>

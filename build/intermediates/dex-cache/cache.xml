@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_a9f8a87cdd34846cf198239455b9a3cdd93fb08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_3fe1004ebae1c9a0617732a672a854798572cd8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_682705d46423945a47af022f70e66b078364f6d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_052a92c47eb0fdac755ab61671c7fe87c234fa3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_8ce2deeebbaf2f823eea00d6a45806ac2c68841e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_a7c8d6c5f76f7c3dab661e38f0ff8271b2e6667d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_a1a044969bb0e3a5f763005fa4c3fb1e866b0581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_27910b30a7e38134b053a22ef3ca97800b81d138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_ce37cf9ce8526ab8c1961b5ead1f2788517ce16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_057c93bae2f72296f1fa8a1389e256e7a5be75bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_fdf97de4db1dea54f273cc711b6f42c655f58772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_66d40c5a739be16fe93579f7fd3c327061869394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_a5e75a94e9e6a1535621302226016db7888f53af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_c1e17ff619ec1363ffdee275043b734e890b75b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_819cdb52e454dea78c53648982c065d3d8a80392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_5d096526bbca98d10257fc337da763d286dc3f9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_c432982bac820bfa73599e2089a96b6c8b9b2ce6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_a9a38a515280e0ed82eb706447c31e99431232dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_20cc2f03e996c8b15334c6cfc0b83d9c0d024e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_da6b179bbf1bf2076ea40f9a8896dcc3bdbb7328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_5889b4ebea8629d7b8f864ec4e6e692668c663ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_ead4b89259b4ae610fe1209001a77f3730bc6772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d325e4ab14e503a229e263495c4c5ea4363bf592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_e2c2d8939b116c237035dd2290eec08a7df832d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_8f9064d069a67b7aa655888e8258e481999f4b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_a527c7773d28123a81b67ea776aa20803ac7cc5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_84ba344e0f2d99bad9d3dc77360619e8e6cec3a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_aa473547550f390cda35a7794d7cad9b9f95efcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_7b7600019eddb56095cd31cc8b06e6796863b914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_3b54048a254d84357f16e355ec5a4335f3eb5756.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_4e0dd2f6358b68da458637e3f6880ab7de11544e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_e49f4bb530b64721d83779871b66d96e1de6223e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_d37ee4fd1e38b6ea9e6d5ab35e0ac6cda1f8b9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_25a99b11f0df36217dcfeef223c2c93daea224ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_1cfa9cc2e9f2632dcbb08c9f7c72a876b0ccfa4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_cae88d66f666db310cbbf5fb1207bb5e562d7c04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_38ef7086ffc94ab0def18e47c2cb2ef0165da06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_3b3ae20d5427857785d5f05521942cfb682f69d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_bb4247f8bc9c0b8618835fa5b01ca20a29ef4cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_6611c0a7cf66b9e865b0f68bb0b4a126bcc7fa9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_4f4e027dd2f10de921c0165ea29c4a3abe587b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_6be469a31cf1e97d2fba0400c167d940c7fd1658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_a7578cd798a396c0b7b67709078d91ae287304df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_224f3add897fdb2767c6425552a786ef25692128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_33ad3ed2a2597045ddc4546ec86037d483283779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_26b29be8232fe4736a66da96bc5c2eda594cfdc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_2ca1390abc050815c9280dacf358aa0c6ab3a3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_df016964e6154fa93d5dda517182c58c4fbb879f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_34a5fd6bfb0cea032d5325fb3c85af7cd9d506de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_da9f5a96c8e47059889c7d802b37b2405b7bd160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_8341e4938d59305da138f6563fceecabfde397f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_dcfb753274f90fcdb7fe42ef9d8ce2064e6ee06f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_c47c15f69c8a1598f090892480b4ee6b0bde0101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_702403e7037ac1b8dc09b564a0860faed60d1714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_966f8b9865c3c39b61b0abe6551ff3b44b9d6306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_50391871c6fabe3274cf452d019f5c009fc61f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\sorin.donosa\AndroidStudioProjects\WhereIsMyRabbit\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_b1f2101882e4e5bd8460008193c047534ff8cf26.jar" />
+    </item>
+
+</items>

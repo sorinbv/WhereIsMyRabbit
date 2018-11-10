@@ -1,0 +1,100 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutMenu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="sorindonosa.whereismyrabbit.Menu" >
+
+    <Button
+        android:id="@+id/btnBuyStars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnSettings"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:radius="10dp"
+        android:text="BUY STARS" />
+
+    <Button
+        android:id="@+id/btnFarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnBuyStars"
+        android:layout_alignLeft="@+id/btnSettings"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="MY FARM" />
+
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnFarm"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="SETTINGS" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnSettings"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="FIND RABBITS"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_above="@+id/btnPlay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/rabbit_icon" />
+
+    <!-- <TextView -->
+    <!-- android:id="@+id/txtSuperRabbs" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_below="@+id/txtStars" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="10dp" -->
+    <!-- android:drawableRight="@drawable/superrabbits" -->
+    <!-- android:gravity="center" -->
+    <!-- android:text="0 srabb" -->
+    <!-- android:textAppearance="?android:attr/textAppearanceLarge" /> -->
+
+    <TextView
+        android:id="@+id/txtHighScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:drawableRight="@drawable/rabbit_64"
+        android:gravity="center"
+        android:paddingRight="10dp"
+        android:text="HS"
+        android:textSize="43sp" />
+
+    <TextView
+        android:id="@+id/txtStars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:drawableRight="@drawable/star_64"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:text="star"
+        android:textSize="43sp" />
+
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutSettings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:configChanges="orientation|screenSize" >
+
+    <!-- <Switch -->
+    <!-- android:id="@+id/swAudio" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_alignLeft="@+id/swVibrate" -->
+    <!-- android:layout_centerVertical="true" -->
+    <!-- android:minWidth="250dp" -->
+    <!-- android:text="AUDIO" -->
+    <!-- android:textAppearance="?android:attr/textAppearanceLarge" -->
+    <!-- android:textOff="OFF" -->
+    <!-- android:textOn="ON" /> -->
+
+
+    <!-- <Switch -->
+    <!-- android:id="@+id/swVibrate" -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="wrap_content" -->
+    <!-- android:layout_below="@+id/swAudio" -->
+    <!-- android:layout_centerHorizontal="true" -->
+    <!-- android:layout_marginTop="30dp" -->
+    <!-- android:minWidth="250dp" -->
+    <!-- android:text="VIBRATE" -->
+    <!-- android:textAppearance="?android:attr/textAppearanceLarge" -->
+    <!-- android:textOff="OFF" -->
+    <!-- android:textOn="ON" /> -->
+
+    <Button
+        android:id="@+id/btnExitSett"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/buttons"
+        android:minWidth="250dp"
+        android:text="BACK" />
+
+    <ToggleButton
+        android:id="@+id/tbVibrate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tbAudio"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/toggle_vib_bg"
+        android:text="VIBRATE" />
+
+    <ToggleButton
+        android:id="@+id/tbAudio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tbVibrate"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/toggle_bg"
+        android:text="AUDIO" />
+
+</RelativeLayout>

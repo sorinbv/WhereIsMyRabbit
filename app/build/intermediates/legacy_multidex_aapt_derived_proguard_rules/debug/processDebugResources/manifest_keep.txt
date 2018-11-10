@@ -1,0 +1,2 @@
+# Referenced at /home/sorin.donosa/workspace-Android/WhereIsMyRabbit/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

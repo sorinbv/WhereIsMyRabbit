@@ -1,0 +1,67 @@
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.0.aar/3c22c33aa2a123fb66dfbb4eb732dd70/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.0.aar/3e77de836bf6cd99a6a1bc690e31e7f6/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.0.aar/3b393e874c01c41e38934fac13ad292c/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/eedd5fe9b952332ef806604b9fc97e58/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/1b82506461a031e61e1d9c3fb4296498/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/6c001da26ebc5c0efe90cc413f3c56b3/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/e0732595b502d7279570363265471a6b/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e0d6ea8364ed9b784787c05f95f035df/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/1469a32ac1a1d8b8664af6b919c86095/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/a5b2a8cd73ab59fc9f570686d023ebe3/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/9b168a68633bb7695d818fdd15512085/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/15e2ba7f9175336e9972242f4a6295c4/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/67df99a5402ea0a4631c07f0f5a6e7b2/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/d561db0fc89b187b158ec1827e859d53/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.0.aar/410623330fe398ae14d5c76bc9bff3c3/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/de76b7dd70586c4d160d4c6b6db96c5e/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0a03b0be6b79ceb84b9c422ce9496105/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10a990114fda1bf15d4657ff6dcdc091/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.0.aar/bd24704951561d29dce155ad805c2223/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/6ee449d5dcd0b14ed784ae1937632f89/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.0.aar/d862a982fad1e34a49d36f693a6226e7/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3073453f563056a09ae4a466b3583cad/jars/classes.jar(**.class)
+-injars /home/sorin.donosa/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /home/sorin.donosa/workspace-Android/WhereIsMyRabbit/app/build/intermediates/classes/debug(**.class)
+-outjars /home/sorin.donosa/workspace-Android/WhereIsMyRabbit/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/sorin.donosa/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/sorin.donosa/workspace-Android/WhereIsMyRabbit/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/sorin.donosa/workspace-Android/WhereIsMyRabbit/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:21
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}
